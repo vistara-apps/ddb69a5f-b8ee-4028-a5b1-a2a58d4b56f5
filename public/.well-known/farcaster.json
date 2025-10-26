@@ -8,9 +8,9 @@
     "version": "next",
     "name": "BTC Signal AI",
     "iconUrl": "https://btcsignalai.app/icon.png",
-    "homeUrl": "https://btcsignalai.app/",
+    "homeUrl": "https://app-8d4b56f5-dexr.vercel.app",
     "splashImageUrl": "https://btcsignalai.app/splash.png",
     "splashBackgroundColor": "#0a0e27",
-    "webhookUrl": "https://btcsignalai.app/api/farcaster-webhook"
+    "webhookUrl": "https://app-8d4b56f5-dexr.vercel.app/api/webhook"
   }
 }
